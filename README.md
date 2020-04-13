@@ -1,4 +1,4 @@
-# Machine-Learning-with-Python
+# Machine Learning with Python
 This repository contains the implementation of python of the following machine learning algorithms:
 1. Regression (Linear, Non-Linear)
 2. Classification (KNN, Decision Tree, Logistic Regression, SVM)
